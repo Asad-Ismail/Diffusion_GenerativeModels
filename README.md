@@ -1,1 +1,3 @@
-## Different Deep learning based image and text/image generative models
+## Deep learning based image and text/image Generative models
+
+## Denoising Diffusion Implicit Models
