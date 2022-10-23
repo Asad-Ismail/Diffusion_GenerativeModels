@@ -8,7 +8,7 @@ On Oxford Flower dataset
 Image size 128 x 128
 
   <p align="center">
-    <img src="images/val_1.png" alt="pruning",img width="550" />
+    <img src="images/flowers.png" alt="pruning",img width="550" />
   </p>
    <p align="center"> 
 
