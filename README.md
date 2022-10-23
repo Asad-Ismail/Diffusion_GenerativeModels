@@ -21,3 +21,8 @@ Image size 128 x 128
   </p>
    <p align="center"> 
 
+
+
+### References
+```
+1) @article{Song, Jiaming, Chenlin Meng, and Stefano Ermon. "Denoising diffusion implicit models." arXiv preprint arXiv:2010.02502 (2020)}
