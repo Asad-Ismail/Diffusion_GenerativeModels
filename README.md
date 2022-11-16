@@ -50,8 +50,7 @@ After training ImageGen on unconditional small splash dataset, novel new images 
   <img alt="Dark" src="images/splash_results/659.png" width="45%">
 </p>
 
-  
-
+ Code and trained model will bre realsed soon stay tuned!!
 
 ### References
 ```
