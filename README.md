@@ -56,3 +56,5 @@ After training ImageGen on unconditional small splash dataset, novel new images 
 ### References
 ```
 1) @article{Song, Jiaming, Chenlin Meng, and Stefano Ermon. "Denoising diffusion implicit models." arXiv preprint arXiv:2010.02502 (2020)}
+2) https://imagen.research.google/
+3) https://github.com/lucidrains/imagen-pytorch
