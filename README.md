@@ -38,6 +38,12 @@ After training ImageGen on unconditional small splash dataset, novel new images 
   <img alt="Dark" src="images/splash_results/486.png" width="45%">
 </p>
 
+ <p align="center">
+  <img alt="Light" src="images/splash_results/570.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="images/splash_results/576.png" width="45%">
+</p>
+
   
 
 
