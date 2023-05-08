@@ -23,7 +23,7 @@ Image size 128 x 128
 
 After training basic diffusion model on flower dataset we will now train the ImageGen diffusion model on small splash dataset with intermediate resolution
 ## ImageGen
-After training ImageGen on unconditional small splash dataset, novel new images generated of intermediate resolution (512 x 512) by imagegen looks like below
+After training ImageGen on unconditional small splash dataset, novel images generated of intermediate resolution (512 x 512) by imagegen looks like below
  
  
  <p align="center">
